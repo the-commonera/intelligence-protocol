@@ -1,4 +1,4 @@
-# [Project Name] Protocol Specification
+# Intelligence Protocol Specification
 
 **Version:** 1.0.0 (draft)
 **Envelope:** JSON-RPC 2.0
